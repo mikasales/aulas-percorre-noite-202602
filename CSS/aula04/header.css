@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Clarity+City:ital,wght@0,100..900;1,100..900&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+
+
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    background-size: rgb(255, 255, 255);;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#logo{
+    height: 50px;
+}
+
+#foto-perfil{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+#usuario{
+    display: flex;
+    margin-right: 3px;
+    margin-top: 1px;
+}
+
+a {
+    font-family: "Clarity City", sans-serif;
+    padding-left: 19px;
+    text-decoration: none;
+
+}
+
+#nome-usuario{
+    font-family: "DM Sans", sans-serif;
+
+}
+
+#header-nav {
+    display: flex   ;
+    align-items: center;
+    justify-content:  space-between;
+
+}
+
+footer {
+    background-color: black;;
+    height: 400px;
+}
+
+#direitos {
+    color: rgb(235, 22, 40);
+    font-size: 30px
+}
+
+
+    
